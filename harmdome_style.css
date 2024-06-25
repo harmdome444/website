@@ -1,4 +1,12 @@
-@font-face {
-font-family:"MingLiU";
-src:url("https://raw.githubusercontent.com/harmdome444/website/main/mingliu.otf") format("opentype");
+@font-face{
+    font-family: "MingLiU";
+    src: url("https://db.onlinewebfonts.com/t/23cfc97e0a97d980f87f5780303baf01.eot");
+    src: url("https://db.onlinewebfonts.com/t/23cfc97e0a97d980f87f5780303baf01.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/23cfc97e0a97d980f87f5780303baf01.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/23cfc97e0a97d980f87f5780303baf01.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/23cfc97e0a97d980f87f5780303baf01.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/23cfc97e0a97d980f87f5780303baf01.svg#MingLiU")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
 }
